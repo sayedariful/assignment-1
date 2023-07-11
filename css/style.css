@@ -245,7 +245,7 @@ Instagram section start
     margin-top: 20px;
 }
 .instagram-image img {
-    height: 345px;
+    height: 385px;
 }
 /* ===========================
 Instagram section End
@@ -275,7 +275,7 @@ bonus section start
     transform: translate(0px , -5px);
 }
 .bonus-image img {
-    height: 297px;
+    height: 330px;
     border-radius: 10px;
 }
 .price-aa {
